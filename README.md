@@ -47,3 +47,13 @@ Path Planning (A* Algorithm)
 Navigation (Agent Movement)
       ↓
 Visualization (Pygame)
+## 📸 Results
+
+### Simulation
+![Simulation](images/simulation.png)
+
+### Path Planning
+![Path](images/path.png)
+
+### Navigation
+![Navigation](images/navigation.png)
